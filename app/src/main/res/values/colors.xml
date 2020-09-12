@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimary">#3F8AE0</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#3F8AE0</color>
+    <color name="colorSecondary">#6D7885</color>
+    <color name="vkBtn">#4986CC</color>
+    <color name="vkBtnClicked">#92b6e0</color>
+    <color name="vkBtnGray">#F5F5F5</color>
+    <color name="vkBtnGrayClicked">#f9f9f9</color>
+    <color name="vkBtnGreen">#4BB34B</color>
+    <color name="vkBtnGreenClicked">#92d192</color>
+    <color name="colorSeparator">#D7D8D9</color>
 </resources>
